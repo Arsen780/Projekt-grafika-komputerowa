@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\szescian \u2014 kopia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E9CCD2-F1F3-4163-9155-7240ECE65DAD}|szescian\\szescian.vcxproj|E:\\szescian \u2014 kopia\\Gl_template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E9CCD2-F1F3-4163-9155-7240ECE65DAD}|szescian\\szescian.vcxproj|solutionrelative:Gl_template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gl_template.c",
+              "DocumentMoniker": "E:\\szescian \u2014 kopia\\Gl_template.c",
+              "RelativeDocumentMoniker": "Gl_template.c",
+              "ToolTip": "E:\\szescian \u2014 kopia\\Gl_template.c",
+              "RelativeToolTip": "Gl_template.c",
+              "ViewState": "AQIAAAsDAAAAAAAAAAD4vxkDAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-14T13:38:18.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

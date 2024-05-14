@@ -1,0 +1,12 @@
+﻿  Gl_template.c
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(352,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1108,28): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1108,48): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1109,28): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1109,49): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1564,12): warning C4244: "return": konwersja z "WPARAM" do "int", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1750,27): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1751,27): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1769,6): warning C4113: "BOOL (__cdecl *)(HWND,UINT,UINT,LONG)" różni się listami parametrów od "DLGPROC"
+F:\Nowy folder\szescian\szescian(10)\szescian — kopia\Gl_template.c(1769,6): warning C4133: "funkcja": niezgodne typy - od "BOOL (__cdecl *)(HWND,UINT,UINT,LONG)" do "DLGPROC"
+  szescian — kopia.vcxproj -> F:\Nowy folder\szescian\szescian(10)\szescian — kopia\szescian\x64\Debug\szescian.exe
